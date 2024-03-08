@@ -1,0 +1,21 @@
+.heading{
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+.project{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.box{
+    padding: 30px 50px;
+}        
+
+.sec{
+    background-color: gray;
+}
+
